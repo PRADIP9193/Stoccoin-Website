@@ -49,8 +49,8 @@ Please add your name and college above if you are a contributor:
 | 33.     | Tanbir Ali               | Aliah University, Kolkata                                                   |
 | 34.     | Rakhi M. Bhagwat         | K.K.Wagh Institute of Engineering Education & Research, Nashik, Maharashtra |
 | 35.     | Vaibhav Maurya           | IMRT Business School, Lucknow, Uttar Pradesh                                |
-| 36.     | Atharva Raut             | NBN Sinhgad Institute of Technical Campus, Pune                                 |
-| 37.     | Shreya Gupta             | Pranveer Singh Institute of Technology, Kanpur                               |
+| 36.     | Atharva Raut             | NBN Sinhgad Institute of Technical Campus, Pune                             |
+| 37.     | Shreya Gupta             | Pranveer Singh Institute of Technology, Kanpur                              |
 | 38.     | Ayush Rathore            | Dr.B.R. Ambedkar NIT Jalandhar                                              |
-| 39.     | Md Shadab Alam           | National Institute of Technology Karnataka
-| 40.     | Pradip Sable             | Sandip Institute of Technology and Research Centre |
+| 39.     | Md Shadab Alam           | National Institute of Technology Karnataka                                  |
+| 40.     | Pradip Sable             | Sandip Institute of Technology and Research Centre, Nashik, Maharashtra     |
